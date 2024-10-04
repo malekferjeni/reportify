@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "402471106979",
+    "firebase_url": "https://studieslib-28907-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "studieslib-28907",
+    "storage_bucket": "studieslib-28907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402471106979:android:e388bb6cfa47ee744b4216",
+        "android_client_info": {
+          "package_name": "com.uni.study"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUOlz9NLBfT73sZmVysY4V6b4s9iS90vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
